@@ -11,4 +11,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![respects-in-durka's GitHub stats](https://github-readme-stats.vercel.app/api?username=respects-in-durka&bg_color=0,1CB5E0,000046&hide_border=true&layout=compact&title_color=FFF&text_color=FFF&show_icons=true&icon_color=FFF&locale=en&border_radius=10&count_private=true)
+[![respects-in-durka's GitHub stats](https://github-readme-stats.vercel.app/api?username=respects-in-durka&bg_color=0,1CB5E0,000046&hide_border=true&layout=compact&title_color=FFF&text_color=FFF&show_icons=true&icon_color=FFF&locale=en&border_radius=10&count_private=true)](https://github.com/respects-in-durka/respects-in-durka/)
+
+![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=respects-in-durka&custom_title=My%20most%20used%20languages)
