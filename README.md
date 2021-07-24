@@ -1,6 +1,4 @@
 # Hello, my name is Nikita
-I'm currently working on very secret project 😎 <br>
-I'm currently learning django and some basics of android development <br>
 ## Contacts
 <a href="https://discordapp.com/users/693151663321645098"><img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ficons.iconarchive.com%2Ficons%2Fpapirus-team%2Fpapirus-apps%2F512%2Fdiscord-icon.png&f=1&nofb=1" width="25"></a>
 
